@@ -48,10 +48,10 @@ The website is designed to provide a smooth and user-friendly browsing experienc
 
 ---
 
-## 👩‍💻 Academic Purpose
+## Academic Purpose
 This project was developed as a required front-end project for SEF Academy to practice front-end development concepts and responsive design.
 
 ---
 
-## Author
+## 👩‍💻 Author
 Yara Khattab
