@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+  background-color: rgb(252, 248, 241)!important; 
+}
+.nav-link:focus {
+    border: 1px solid rgb(105, 157, 226);
+    border-radius: 5px;
+}
+.custom-caption {
+    bottom: 40px !important; 
+    padding: 20px;
+    max-width: 750px;
+  margin: auto; 
+}
+.icons .btn:hover{
+    opacity: 0.4;
+}
+.icons{
+    z-index: 2;
+}
+.dessert{
+    position: relative;
+    cursor: pointer;
+}
+.dessert::after{
+     position: absolute;
+    content: "";
+    height: 0;
+    width: 0;
+    top:0;
+    left:0;
+    background-color: rgba(190, 176, 158, 0.2);
+    z-index: 2;
+    transition:all 0.8s ease;
+}
+.dessert::before{
+     position: absolute;
+    content: "";
+    height: 0;
+    width: 0;
+   bottom:0;
+  right:0;
+   background-color: rgba(190, 176, 158, 0.2);
+    z-index: 2;
+     transition:all 0.8s ease;
+}
+.dessert:hover::after , .dessert:hover::before{
+    width: 100%;
+    height: 100%;
+   
+}
+.chief{
+    cursor: pointer;
+   transition:all 0.8s ease;
+}
+.chief:hover{
+    transform: scale(0.85);
+}
+.image1{
+      overflow: hidden;
+      clip-path: polygon(0 0, 100% 0, 100% 100%, 15% 100%); 
+     padding: 0 !important;
+}
+.image2{
+     overflow: hidden;
+     height: 330px;
+     padding: 0 !important;
+}
+.image3{
+     overflow: hidden;
+    clip-path: polygon(0 0, 100% 0, 85% 100%, 0 100%);
+     padding: 0 !important;
+}
+ .image{
+    width: 100%;
+    height: 100%;
+    min-height: 250px;
+    background-position: center;
+    background-size: cover;
+    transition: all 0.7s ease;
+}
+.card:hover .image {
+    transform: scale(1.1);
+}  
+.buttons button:hover{
+    background-color: gray;
+    border:0;
+} 
+.card-custom{
+transition: all 0.7s ease;
+}
+.card-custom:hover{
+    cursor: pointer;
+      transform: scale(1.08);
+}
+.fa-heart{
+  animation: beat 1.5s ease-in-out infinite;
+  transform-origin: center;
+}
+@keyframes beat{
+ 0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.5);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.bic{
+   color: rgb(252, 247, 231);
+   font-size: 17px;
+}
