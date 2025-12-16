@@ -26,7 +26,7 @@ The website focuses on providing an attractive and user-friendly interface for c
 - Social media links
 
 ## 📸 Home Page Preview
-![Home Page Screenshot](![Uploading image.png…]())
+![ChocoWhirl Home Page](home.jpg)
 
 ## 🚀 How to Run the Project
 1. Download or clone the repository.
