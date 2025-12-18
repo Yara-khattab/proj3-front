@@ -38,7 +38,7 @@ The website is designed to provide a smooth and user-friendly browsing experienc
 ---
 
 ## Home Page Preview
-![Home Page](home.jpg)
+![ChocoWhirl Home Page](home.jpg)
 
 ---
 
