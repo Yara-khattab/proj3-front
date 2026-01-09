@@ -43,7 +43,7 @@ The website is designed to provide a smooth and user-friendly browsing experienc
 ---
 
 ## How to Run the Project
-  [//github.com/your-username/simple-calculator.git](https://yara-khattab.github.io/proj3-front/)
+  [ChocoWhirl](https://yara-khattab.github.io/proj3-front/)
 
 ---
 
