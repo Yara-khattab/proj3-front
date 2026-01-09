@@ -42,8 +42,9 @@ The website is designed to provide a smooth and user-friendly browsing experienc
 
 ---
 
-## How to Run the Project
-  [ChocoWhirl](https://yara-khattab.github.io/proj3-front/)
+## Project Demo
+This project is hosted on GitHub Pages and can be accessed using the following link:  
+[Explore the Website ](https://yara-khattab.github.io/proj3-front/)
 
 ---
 
