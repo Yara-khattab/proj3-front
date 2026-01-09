@@ -43,8 +43,7 @@ The website is designed to provide a smooth and user-friendly browsing experienc
 ---
 
 ## How to Run the Project
-1. Download or clone the repository.  
-2. Open the `index.html` file in any modern web browser.
+  [//github.com/your-username/simple-calculator.git](https://yara-khattab.github.io/proj3-front/)
 
 ---
 
