@@ -3,5 +3,6 @@ var x=btn.parentElement.querySelector('.copiedlabel')
 x.classList.remove("d-none");
  setTimeout(()=>{
     x.classList.add("d-none");
- },2000);
+ },1500);
+
 }
